@@ -30,5 +30,8 @@
     <ClCompile Include="File(Exercise1).cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="File(Exercise2).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
