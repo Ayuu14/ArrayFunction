@@ -6,16 +6,19 @@ int main() {
 	string cakeType;
 	int length, width, panArea, bigSlice;
 	double smallPrice, bigPrice;
+
 	cout << "Enter cake type :";
 	getline(cin, cakeType);
 	cout << "Enter the length of pan :";
 	cin >> length;
 	cout << "Enter the width of pan :";
 	cin >> width;
+
 	panArea = length * width;
 	bigSlice = panArea / 4;
 	smallPrice = panArea * 0.5;
 	bigPrice = bigSlice * 0.9;
+
 	cout << "\n---------------------------------------------" << endl;
 	cout << "\t\tSummary\n\tCakeType : " << cakeType << endl;
 	cout << "\tPan Dimension : " << length << " X " << width << endl;
