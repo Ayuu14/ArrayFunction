@@ -133,6 +133,7 @@
     <ClCompile Include="Exercise2.cpp" />
     <ClCompile Include="Exercise3.cpp" />
     <ClCompile Include="Exercise4.cpp" />
+    <ClCompile Include="Selection%281%29.cpp" />
     <ClCompile Include="File(Exercise1).cpp" />
     <ClCompile Include="File(Exercise2).cpp" />
     <ClCompile Include="File(Exercise3).cpp" />
