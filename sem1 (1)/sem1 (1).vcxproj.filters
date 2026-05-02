@@ -48,5 +48,8 @@
     <ClCompile Include="Selection(2).cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Array1D2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
