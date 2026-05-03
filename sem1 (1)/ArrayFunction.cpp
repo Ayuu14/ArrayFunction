@@ -117,5 +117,4 @@ void viewAll(int vA[][DAY], string bA[], string dA[]) {
 	}
 	cout << "\nTotal passengers of all buses: " << total << endl << endl;
 
-	return 0;
 }
